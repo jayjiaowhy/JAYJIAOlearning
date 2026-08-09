@@ -25,4 +25,4 @@ BFS 按层扩展，DFS 沿路径深入，它们是图、树、状态空间搜索
 
 - [[cs_ds/数据结构与算法/数据结构与算法笔记/9.图结构与算法|图结构与算法]]
 - [[cs_ds/数据结构与算法/算法设计课程书籍笔记/Chapter 3 Graphs|算法设计：Graphs]]
-- [[2knowledge and search|AI：Knowledge and Search]]
+- [[cs_ds/人工智能/2knowledge and search|AI：Knowledge and Search]]
