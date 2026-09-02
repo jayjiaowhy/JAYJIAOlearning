@@ -23,6 +23,7 @@
 - [[00-Wiki/Concepts/分类模型|分类模型]]
 - [[00-Wiki/Concepts/梯度下降|梯度下降]]
 - [[00-Wiki/Concepts/假设检验|假设检验]]
+- [[00-Wiki/Concepts/随机过程|随机过程]]
 - [[00-Wiki/Concepts/债券定价|债券定价]]
 - [[00-Wiki/Concepts/久期|久期]]
 - [[00-Wiki/Concepts/投资组合与CAPM|投资组合与 CAPM]]

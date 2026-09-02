@@ -27,7 +27,7 @@
 - 系统底座：[[cs_ds/计算机原理/00-计算机原理索引|计算机原理]] -> [[00-Wiki/Concepts/存储器层次|存储器层次]]。
 - 结构与算法：[[cs_ds/数据结构与算法/00-数据结构与算法索引|数据结构与算法]] -> [[00-Wiki/Concepts/图算法|图算法]] -> [[00-Wiki/Concepts/贪心算法|贪心算法]] / [[00-Wiki/Concepts/分治算法|分治算法]] -> [[00-Wiki/Concepts/动态规划|动态规划]] -> [[00-Wiki/Concepts/网络流|网络流]] -> [[00-Wiki/Concepts/NP完全性|NP 完全性]]。
 - 数据系统：[[cs_ds/数据库/00-数据库索引|数据库]] -> [[00-Wiki/Concepts/关系模型|关系模型]] -> [[00-Wiki/Concepts/关系代数|关系代数]] -> [[00-Wiki/Concepts/SQL查询分析|SQL 查询分析]]。
-- 智能与数据：[[cs_ds/人工智能/00-人工智能导论索引|人工智能导论]] -> [[cs_ds/机器学习/00-机器学习索引|机器学习]] -> [[cs_ds/推荐系统/00-推荐系统索引|推荐系统]] / [[cs_ds/数据挖掘/00-数据挖掘索引|数据挖掘]]。
+- 智能与数据：[[cs_ds/人工智能/00-人工智能导论索引|人工智能导论]] -> [[cs_ds/机器学习/机器学习路线_ISLP-CS229-李航|ISLP × CS229 × 李航路线]] -> [[cs_ds/机器学习/00-机器学习索引|机器学习]] -> [[00-Wiki/Concepts/PyTorch训练循环|PyTorch 训练循环]] -> [[cs_ds/推荐系统/00-推荐系统索引|推荐系统]] / [[cs_ds/数据挖掘/00-数据挖掘索引|数据挖掘]]。
 
 ## 概念簇
 
@@ -36,7 +36,7 @@
 - 复杂度与系统：[[00-Wiki/Concepts/NP完全性|NP 完全性]]、[[00-Wiki/Concepts/计算机组成原理|计算机组成原理]]、[[00-Wiki/Concepts/存储器层次|存储器层次]]。
 - 数据库：[[00-Wiki/Concepts/数据库系统架构|数据库系统架构]]、[[00-Wiki/Concepts/E-R模型|E-R 模型]]、[[00-Wiki/Concepts/关系模型|关系模型]]、[[00-Wiki/Concepts/数据完整性|数据完整性]]、[[00-Wiki/Concepts/SQL查询分析|SQL 查询分析]]。
 - AI 知识表示：[[00-Wiki/Concepts/知识表示|知识表示]]、[[00-Wiki/Concepts/谓词逻辑|谓词逻辑]]、[[00-Wiki/Concepts/产生式系统|产生式系统]]、[[00-Wiki/Concepts/语义网络|语义网络]]、[[00-Wiki/Concepts/状态空间搜索|状态空间搜索]]。
-- 机器学习：[[00-Wiki/Concepts/机器学习基础|机器学习基础]]、[[00-Wiki/Concepts/回归模型|回归模型]]、[[00-Wiki/Concepts/逻辑回归|逻辑回归]]、[[00-Wiki/Concepts/神经网络|神经网络]]、[[00-Wiki/Concepts/偏差方差|偏差方差]]、[[00-Wiki/Concepts/决策树|决策树]]、[[00-Wiki/Concepts/集成学习|集成学习]]。
+- 机器学习：[[00-Wiki/Concepts/机器学习基础|机器学习基础]]、[[00-Wiki/Concepts/回归模型|回归模型]]、[[00-Wiki/Concepts/逻辑回归|逻辑回归]]、[[00-Wiki/Concepts/神经网络|神经网络]]、[[00-Wiki/Concepts/PyTorch训练循环|PyTorch 训练循环]]、[[00-Wiki/Concepts/偏差方差|偏差方差]]、[[00-Wiki/Concepts/决策树|决策树]]、[[00-Wiki/Concepts/集成学习|集成学习]]。
 - 推荐与检索：[[00-Wiki/Concepts/推荐系统|推荐系统]]、[[00-Wiki/Concepts/协同过滤|协同过滤]]、[[00-Wiki/Concepts/双塔模型|双塔模型]]、[[00-Wiki/Concepts/学习排序|学习排序]]、[[00-Wiki/Concepts/A-B测试|A/B 测试]]。
 - 学习范式：[[00-Wiki/Concepts/聚类分析|聚类分析]]、[[00-Wiki/Concepts/推荐系统|推荐系统]]、[[00-Wiki/Concepts/强化学习|强化学习]]。
 - 数据挖掘：[[00-Wiki/Concepts/探索性数据分析|探索性数据分析]]、[[00-Wiki/Concepts/数据可视化|数据可视化]]、[[00-Wiki/Concepts/回归模型|回归模型]]、[[00-Wiki/Concepts/分类模型|分类模型]]、[[00-Wiki/Concepts/聚类分析|聚类分析]]、[[00-Wiki/Concepts/文本挖掘|文本挖掘]]、[[00-Wiki/Concepts/推荐系统|推荐系统]]。
@@ -47,3 +47,4 @@
 - 课程索引负责清点资源，概念卡负责跨课程连接。
 - 对 `cs_ds/cs_self_learning` 这类大型资料库，只维护路线和分类入口，不逐篇生成概念卡。
 - 算法设计近期复习资料统一从 [[cs_ds/数据结构与算法/00-数据结构与算法索引|数据结构与算法索引]] 进入。
+- 机器学习工程实践先从 [[cs_ds/机器学习/机器学习路线_ISLP-CS229-李航|14 周综合路线]] 建立模型主线，再用 [[cs_ds/推荐系统/PyTorch初识|PyTorch 初识]] 对照推荐系统训练代码。
